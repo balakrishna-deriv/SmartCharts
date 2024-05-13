@@ -5,7 +5,7 @@
     "author": "amin@binary.com",
     "config": {
         "commitizen": {
-          "path": "@commitlint/cz-commitlint"
+            "path": "@commitlint/cz-commitlint"
         }
     },
     "contributors": [
@@ -13,7 +13,6 @@
         "Mahboobeh Mohammadi <mahboobeh@binary.com>",
         "Shayan Yazdanpanah <shayan@binary.com>"
     ],
-    "license": "ISC",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/binary-com/SmartCharts.git"
